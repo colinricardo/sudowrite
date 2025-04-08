@@ -1,4 +1,4 @@
-# py
+# ts
 
 ## install bun
 ```
