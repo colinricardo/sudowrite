@@ -1,0 +1,115 @@
+# byte-compiled / optimized / dll files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# c extensions
+*.so
+
+# distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+*.egg
+MANIFEST
+
+# pyinstaller
+*.manifest
+*.spec
+
+# installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# translations
+*.mo
+*.pot
+
+# django stuff
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# flask stuff
+instance/
+.webassets-cache
+
+# scrapy stuff
+.scrapy
+
+# sphinx documentation
+docs/_build/
+
+# pybuilder
+target/
+
+# jupyter notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+celerybeat.pid
+
+# environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# spyder project settings
+.spyderproject
+.spyproject
+
+# rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# cython debug symbols
+cython_debug/
