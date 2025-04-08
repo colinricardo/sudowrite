@@ -3,7 +3,6 @@
 ## install bun
 ```
 curl -fsSL https://bun.sh/install | bash
-
 ```
 
 # how to run code
