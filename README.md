@@ -51,5 +51,5 @@
 
 # screenshot
 - it should be this easy to run:
-![CleanShot 2025-04-08 at 15 20 29@2x](https://github.com/user-attachments/assets/abe21491-5515-468b-9a53-87592b1a67bb)
+![CleanShot 2025-04-08 at 15 20 29@2x](https://github.com/user-attachments/assets/7ab0fcfc-2f8d-4285-a732-7ef1f3e20ffd)
 
